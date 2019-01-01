@@ -8,17 +8,17 @@ Airlink booking system adalah sebuah program yang menggunakan bahasa program C y
 ### Menu Awal
 Tampilan menu program.
 
-![Menu](/image/Menu awal.jpg)
+![Menu](/image/Menuawal.jpg)
 
 ### Pemesanan Kursi
 Menu untuk mengetahuin kursi yang akan dipesan.
 
-![Pesan](/image/Pemesanan Kursi.jpg)
+![Pesan](/image/PemesananKursi.jpg)
 
 ### Data Penumpang
 Memasukan input data penumpang.
 
-![Data](/image/Data Penumpang.jpg)
+![Data](/image/DataPenumpang.jpg)
 
 ### Pembayaran
 Pembayaran tiket yang telah dipesan.
@@ -28,7 +28,7 @@ Pembayaran tiket yang telah dipesan.
 ### Cetak Tiket
 Pencetakan tiket sebagai bukti pemesanan.
 
-![Cetak](/image/Pembayaran Pencetakan tiket.jpg)
+![Cetak](/image/PembayaranPencetakantiket.jpg)
 
 ### Pembatalan
 Menu untuk membatalkan tiket.
@@ -38,7 +38,7 @@ Menu untuk membatalkan tiket.
 ### Menu Bantuan
 Panduan penggunaan program.
 
-![Bantuan](/image/Menu bantuan.jpg)
+![Bantuan](/image/Menubantuan.jpg)
 
 ### EXIT
 untuk Keluar dari Program
