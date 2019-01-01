@@ -44,3 +44,7 @@ Panduan penggunaan program.
 untuk Keluar dari Program
 
 ![Exit](/image/Exit.jpg)
+
+### Flowchart Program
+
+![Flowchart](/image/Flowchart.jpg)
